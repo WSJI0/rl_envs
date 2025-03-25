@@ -1,0 +1,3 @@
+[submodule "gym-applegame"]
+	path = gym-applegame
+	url = git@github.com:WSJI0/gym-applegame.git
